@@ -113,11 +113,11 @@
 25
 00:01:20,030 --> 00:01:22,040
 ‫>> خیر، میرے semester کے ختم
-‫ہونے ہوتے یہ بات
+‫ہوتے ہوتے یہ بات
 
 26
 00:01:22,040 --> 00:01:24,870
-‫مجھے سمجھ آگئی کہ یہ اتنی کوئی
+‫مجھے سمجھ آگئی کہ یہ اتنی بھی کوئی
 ‫اجنبی field نہیں ہے.
 
 27
@@ -142,7 +142,7 @@
 31
 00:01:34,600 --> 00:01:37,860
 ‫تب کہیں جا کر مجھے احساس ہونا شروع ہوا
-‫کہ اس طرح سے Computer سائنس
+‫کہComputer سائنس کس طرح سے
 
 32
 00:01:37,860 --> 00:01:41,979
@@ -161,7 +161,7 @@
 35
 00:01:44,420 --> 00:01:46,930
 ‫ہمیں امید ہے کہ آپ بھی دیکھ لیں گے --
-‫کہ کتنی زیادہ کام آسکتی ہے Computer سائنس
+‫کہ کتنا زیادہ کام آسکتی ہے یہ
 
 36
 00:01:46,930 --> 00:01:50,280
@@ -257,7 +257,7 @@
 55
 00:02:38,040 --> 00:02:43,110
 ‫بلکہ یہ ہوگی کہ course کے week 11 یعنی آخری week میں
-‫آپ اپنے آپ سے کتنا آگے نکل پائے ہیں،
+‫آپ اپنے آپ سے کتنا آگے نکل پاتے ہیں،
 
 56
 00:02:43,110 --> 00:02:46,280
@@ -276,8 +276,8 @@
 
 59
 00:02:50,620 --> 00:02:52,450
-‫Computer سائنس کے بارے میں اور بھی
-‫زیادہ سچ ہے یہ بات.
+‫Computer سائنس کے بارے میں یہ بات اور بھی
+‫زیادہ سچ ہے.
 
 60
 00:02:52,450 --> 00:02:55,320
@@ -287,7 +287,7 @@
 61
 00:02:55,320 --> 00:02:58,590
 ‫اور شاید آپ کو بھی لگتی ہو،
-‫اصل میں problems کو solve کرنے کے بارے میں.
+‫اصل میں problems کو solve کرنے کے بارے میں ہے بس.
 
 62
 00:02:58,590 --> 00:03:01,324
@@ -301,8 +301,8 @@
 
 64
 00:03:03,490 --> 00:03:06,897
-‫تو اصل میں اسی کو تو کہتے ہیں
-‫problems کو solve کرنا.
+‫تو اصل میں problems کو solve کرنے 
+‫کا مطلب کچھ یوں ہے:
 
 65
 00:03:06,897 --> 00:03:09,480
@@ -331,12 +331,12 @@
 70
 00:03:19,450 --> 00:03:22,230
 ‫یہ بھی ہوسکتا ہے کہ اس box کے
-‫اندر کی چیزیں آپ خود بنا رہے ہیں.
+‫اندر کی چیزیں آپ خود بنا رہے ہوں.
 
 71
 00:03:22,230 --> 00:03:25,194
 ‫لیکن آج، یا عام طور پر زندگی میں،
-‫آپ کو اس بات سے سروکار ہوتا ہے
+‫آپ کو سروکار اس بات سے ہوتا ہے
 
 72
 00:03:25,194 --> 00:03:26,610
@@ -359,7 +359,7 @@
 
 76
 00:03:34,410 --> 00:03:37,450
-‫کسی طرح پردے کے پیچھے
+‫کس طرح پردے کے پیچھے
 ‫رہ کر سارا کام کر رہے ہوتے ہیں.
 
 77
@@ -379,7 +379,7 @@
 
 80
 00:03:46,660 --> 00:03:48,160
-‫لگتا ہو، لیکن یہ ہے نہایت ہی بے عقل device.
+‫لگتا ہو، لیکن یہ ہے انتہائی بے عقل device.
 
 81
 00:03:48,160 --> 00:03:52,240
@@ -398,7 +398,7 @@
 
 84
 00:03:57,970 --> 00:03:59,470
-‫ایک problem کو solve کی مثال لے لیتے ہیں
+‫ایک problem کو solve کرنے کی مثال لے لیتے ہیں
 
 85
 00:03:59,470 --> 00:04:01,050
@@ -426,7 +426,7 @@
 
 90
 00:04:10,560 --> 00:04:14,650
-‫یا پھر ایک طریقہ ہے لکیریں کھینچنے کا --
+‫تو اس لئے ایک طریقہ ہے لکیریں کھینچنے کا --
 ‫ایک بندہ، دو، تین، چار، پانچ، چھ،
 
 91
@@ -445,12 +445,12 @@
 94
 00:04:19,680 --> 00:04:22,140
 ‫اور یہ جو  طریقہ ہے، اسے ہم
-‫اصل میںUnary (اُونری) notation کہتے ہیں.
+‫اصل میںUnary (اُونیری) notation کہتے ہیں.
 
 95
 00:04:22,140 --> 00:04:26,130
 ‫جس میں ہمارے پاس صرف ایک symbol  ہوتا ہے،
-‫یعنی ایک کا یا پھر hash (#) کا نشان،
+‫یعنی 1 کا یا پھر hash (#) کا نشان،
 
 96
 00:04:26,130 --> 00:04:29,440
@@ -478,266 +478,267 @@
 
 101
 00:04:37,800 --> 00:04:40,770
-‫اور مزے کی بات یہ کہ چاہے نے کبھی اس چیز
+‫اور چاہے آپ نے کبھی اس چیز
 ‫کے مطلب کے بارے میں نہ بھی سوچا ہو
 
 102
 00:04:40,770 --> 00:04:44,080
-‫لیکن تقریباً آپ سب کو ہی معلوم
-‫ہوگا ہی کہ Computers صرف zeros (صفر)
+‫لیکن تقریباً آپ سب کو ہی یہ معلوم 
+‫ہوگا کہ Computers صرف zeros (صفر)
 
 103
 00:04:44,080 --> 00:04:45,870
-‫اور ones (1) کو سمجھ سکتے ہیں --
+‫اور ones (ایک) کو سمجھ سکتے ہیں --
 ‫جسے ہم binary (بائینری) system کہتے ہیں.
 
 104
 00:04:45,870 --> 00:04:49,390
-‫We humans, by contrast, are so
-‫much more sophisticated insofar
+‫ہم انسان، اس کے برعکس، کہیں زیادہ
+‫sophisticated ہیں
 
 105
 00:04:49,390 --> 00:04:51,770
-‫as we understand zeros through nines.
+‫کیونکہ ہم zero سے لیکر nine تک کو سمجھ پاتے ہیں.
 
 106
 00:04:51,770 --> 00:04:55,740
-‫>> But even if binary is, at first
-‫glance, not all that familiar,
+‫>> اور حالانکہ بھلے ہی binary ہمیں
+‫ہمیں عجیب و غریب لگتا ہو
 
 107
 00:04:55,740 --> 00:05:00,330
-‫it turns out it's just like the systems
-‫and the ideas that we already know.
+‫لیکن ہقیقتاً یہ system اور اس کے اصول
+‫بھی ہمارے decimal system کی طرح ہی ہیں.
 
 108
 00:05:00,330 --> 00:05:02,420
-‫So for instance, consider this.
+‫مثلاّ، یہ دیکھیں
 
 109
 00:05:02,420 --> 00:05:03,896
-‫This is just a sequence of symbols.
+‫یہ بس symbols کی ایک sequence ہے.
 
 110
 00:05:03,896 --> 00:05:05,770
-‫And all of you, when
-‫glancing at it, probably
+‫اور آپ سب اس پر
+‫نظریں جمائے ہوئے شاید
 
 111
 00:05:05,770 --> 00:05:09,380
-‫think 123-- nothing
-‫really interesting there.
+‫یہ سوچ رہے ہوں: ایک سو تیس (123) --
+‫اس میں ایسا خاص کیا ہے.
 
 112
 00:05:09,380 --> 00:05:11,940
-‫But why is it this number, 123?
+‫لیکن یہ نمبر 123 کیوں ہے؟
 
 113
 00:05:11,940 --> 00:05:14,440
-‫These are just glyphs on
-‫the screen-- just patterns
+‫یہ screen پر بس کچھ لکیریں
+‫ماری ہوئی ہیں -- یہ کچھ خاکے ہیں
 
 114
 00:05:14,440 --> 00:05:16,387
-‫that someone might have drawn or typed.
+‫جو کسی نے بنا دیئے ہیں.
 
 115
 00:05:16,387 --> 00:05:18,970
-‫But if you're like me, you
-‫probably remember from grade school
+‫لیکن اگر آپ میری طرح ہیں
+‫تو آپ نے یقیناً school میں پڑھا ہوگا
 
 116
 00:05:18,970 --> 00:05:21,610
-‫that there are sort of
-‫columns or places here.
+‫کہ یہ اصل میں columns ہیں،
+‫numbers کی places ہیں
 
 117
 00:05:21,610 --> 00:05:25,340
-‫There's the one's place and the
-‫ten's place and the hundred's place.
+‫سب سے پہلے ones (یا units) کی place،
+‫پھر tens کی place، اور پھر hundreds کی.
 
 118
 00:05:25,340 --> 00:05:29,820
-‫And the reason that this is 123 and
-‫not just a pattern of three symbols
+‫اور اگر یہ صرف و صرف 3 بے معنی لکریروں کے خاکے
+‫ہونے کی بجائے ایک سو تیس (123) ہے تو
 
 119
 00:05:29,820 --> 00:05:33,090
-‫is because, of course, if we
-‫have a one in the hundreds place,
+‫اس وجہ کہ یہ ہے کہ یہاں hundreds
+‫کی place میں 1 لکھا ہے
 
 120
 00:05:33,090 --> 00:05:36,610
-‫you do the math of 100 times one,
-‫and then two in the ten's place.
+‫تھوڑی سی Math لگائیں تو مطلب سو ہے ایک بار.
+‫اور پھر tens کی place میں 2 ہے.
 
 121
 00:05:36,610 --> 00:05:41,390
-‫So that's 10 times 2, and then three in
-‫the one's place and that's 1 times 3.
+‫یعنی کہ دو بار دس، اور پھر ہے 3
+‫جو کہ ones کی place میں ہے یعنی ایک بار 3.
 
 122
 00:05:41,390 --> 00:05:45,670
-‫And when you add all of those up, of
-‫course, you get 100 plus 20 plus 3.
+‫اور جب آپ ان سب کو add کردیں، تو
+‫یقیناً یہ بنتا ہے 100+20+3.
 
 123
 00:05:45,670 --> 00:05:48,220
-‫>> So we started with just a pattern
-‫of symbols-- an alphabet--
+‫>> تو شروع ہم نے symbols کے patterns
+‫سے کیا -- ایک alphabet سے --
 
 124
 00:05:48,220 --> 00:05:51,670
-‫but then we mapped meaning onto
-‫it by way of these columns.
+‫لیکن پھر ہر symbol کو ایک place دے کر ہم نے
+‫ہم نے انہیں معنی خیز بنا دیا.
 
 125
 00:05:51,670 --> 00:05:54,450
-‫Well, it turns out that
-‫computers are really not
+‫خیر، Computers بھی اصل میں
+‫مجھ سے یا آپ سے
 
 126
 00:05:54,450 --> 00:05:56,300
-‫all that different from you and me.
+‫بالکل بھی مختلف نہیں ہیں.
 
 127
 00:05:56,300 --> 00:06:01,840
-‫But instead of using powers of 10,
-‫so to speak-- 1, 10, 100, 1,000,
+‫لیکن 10 کی powers 
+‫- یعنی 1, 10, 100, 1000
 
 128
 00:06:01,840 --> 00:06:04,330
-‫10,000 place and so
-‫forth-- they actually
+‫10,000 وغیرہ کی places کو
+‫use کرنے کی بجائے
 
 129
 00:06:04,330 --> 00:06:08,930
-‫just use powers of 2--
-‫so one, 2, 4, and then
+‫Computers دو (2) کی powers کو use
+‫کرتے ہیں -- یعنی 2، 4، وغیرہ
 
 130
 00:06:08,930 --> 00:06:12,810
-‫if we put more digits, 8, 16,
-‫32, 64, 128, and so forth.
+‫اور اگر تھوڑے اور digits لے لیں، تو
+‫8, 16, 64, 128, وغیرہ
 
 131
 00:06:12,810 --> 00:06:16,050
-‫And so this is how a computer
-‫would represent the number 0,
+‫تو Computer کچھ اس طرح سے
+‫represent کریگا نمبر zero کو
 
 132
 00:06:16,050 --> 00:06:17,300
-‫just like we humans.
+‫بالکل جیسے ہم کرتے ہیں.
 
 133
 00:06:17,300 --> 00:06:21,660
-‫>> 0, 0, 0-- and you can probably guess
-‫what pattern of zeros and ones,
+‫>> 0, 0, 0 -- اور آپ آسانی سے
+‫guess کرسکتے ہیں کہ zeros اور ones کیا pattern --
 
 134
 00:06:21,660 --> 00:06:24,610
-‫if a computer can only
-‫speak 0 or 1-- what
+‫اگر computer صرف 0  یا 1
+‫کی زبان بولتا ہے -- تو کس
 
 135
 00:06:24,610 --> 00:06:29,110
-‫pattern is going to represent
-‫the number we humans know as 1?
+‫pattern کے ذریعے وہ اس نمبر کو
+‫represent کریگا جسے ہم لوگ One (ایک) کہتے ہیں.
 
 136
 00:06:29,110 --> 00:06:30,590
-‫Yeah-- 0, 0, 1.
+‫بالکل -- 1, 0, 0
 
 137
 00:06:30,590 --> 00:06:31,090
-‫All right.
+‫All right
 
 138
 00:06:31,090 --> 00:06:35,900
-‫So 0, 0, 1 is how we represent
-‫1, so you might be inclined then
+‫تو اگر 1 (ایک) کو ہم 0, 0, 
+‫1, کرکے ظاہر کیا جائے گا، تو پھر
 
 139
 00:06:35,900 --> 00:06:39,510
-‫to represent the number 2, if you have
-‫the four's place and the two's place
+‫نمبر 2 کو کیسے ظاہر کرینگے.
+‫اگر یہ ہے Four's کی place، اور یہ Two's کی place
 
 140
 00:06:39,510 --> 00:06:48,290
-‫as the one place, you might say, well,
-‫if we had a 1 in the one's place,
+‫اور یہ Ones کی place، تو آپ simply کہہ سکتے ہیں
+‫کہ ہم Ones کی place میں 1 لگا دینگے.
 
 141
 00:06:48,290 --> 00:06:50,430
-‫and now we want to
-‫count up to 2, you might
+‫اور اب ہم آپ 2 (دو) لکھنے کی
+‫بات کریں تو شاید آپ
 
 142
 00:06:50,430 --> 00:06:53,310
-‫do this and leave this to be a zero.
+‫یہاں 1 لگا دیں، اور یہاں zero.
 
 143
 00:06:53,310 --> 00:06:56,397
-‫But of course this is not how
-‫the decimal system works either.
+‫لیکن اصل میں یہ طریقہ تو ہمارے decimal (دس کے)
+‫system میں بھی غلط ہوگا.
 
 144
 00:06:56,397 --> 00:06:58,230
-‫If you put a digit in
-‫both of those columns,
+‫کیونکہ اگر آپ ہر digit کو اس کی place سے 
+‫multiply کردیں،
 
 145
 00:06:58,230 --> 00:06:59,563
-‫you've got to do the arithmetic.
+‫اور تھوڑا دماغ لگائیں،
 
 146
 00:06:59,563 --> 00:07:01,930
-‫So what number did I
-‫accidentally just represent?
+‫تو 2 کی بجائے میں نے کونسا نمبر
+‫غلطی سے لکھ دیا ہے یہاں؟
 
 147
 00:07:01,930 --> 00:07:06,710
-‫>> So it's 3, because 2 times 1 plus 1
-‫times 1, of course, gives us three.
+‫>> یہ 3 (تین) ہے، کیوںکہ 2 بار 1
+‫+ 1 کرکے ہمیں 3 ملتا ہے.
 
 148
 00:07:06,710 --> 00:07:08,340
-‫So this would be two.
+‫تو 2 اصل میں کچھ یوں ہوگا.
 
 149
 00:07:08,340 --> 00:07:12,730
-‫The bit sort of flips, so to speak, as 0
-‫becomes a one, much like a 9 roles over
+‫یہ bit ایک لحاظ سے flip ہوگیا، 0 سے 1
+‫بننے پر، بالکل جس طرح 9 کے بعد گنتی دوبارہ
 
 150
 00:07:12,730 --> 00:07:14,840
-‫and becomes a 0 when you carry the 1.
+‫0 پر چلی جاتی ہے، اور 1 آگے بڑھ کر
+‫دس بن جاتا ہے.
 
 151
 00:07:14,840 --> 00:07:16,510
-‫This then would be three of course.
+‫اور 3 پھر کچھ اس طرح سے ہوگا.
 
 152
 00:07:16,510 --> 00:07:20,170
-‫Four-- another interesting thing
-‫happens, where the ones roll over
+‫چار (4) -- ایک اور دلچسپ چیز ہوگی اب
+‫جب یہ ones دونوں 0 بن جائیں گے،
 
 153
 00:07:20,170 --> 00:07:21,750
-‫and you carry the 1, so to speak.
+‫اور 1 آگے بڑھ جائے گا.
 
 154
 00:07:21,750 --> 00:07:23,320
-‫So this, of course, is 4.
+‫اور اس طرح یہ ہے 4 (چار).
 
 155
 00:07:23,320 --> 00:07:25,160
-‫>> But if you fast forward now,
-‫what's the biggest number going
+‫>> لیکن اب اگر تھوڑا jump کریں تو
+‫سب سے بڑا نمبر کونسا ہوگا جو
 
 156
 00:07:25,160 --> 00:07:26,660
-‫to be that a computer can represent?
+‫جو computer ان تین bits (یعنی digits) میں ظاہر کرسکے گا؟
 
 157
 00:07:26,660 --> 00:07:30,420
@@ -745,39 +746,38 @@
 
 158
 00:07:30,420 --> 00:07:32,380
-‫So it's just seven in this case, right?
+‫تو اس کا جواب ہے 7 (سات)، right ؟
 
 159
 00:07:32,380 --> 00:07:35,570
-‫Because you have a one in the four,
-‫a one in the two, a one in the one.
+‫کیونکہ 4s کی place میں 1 ہے،
+‫اور 2s اور 1s کی place میں بھی 1 ہے.
 
 160
 00:07:35,570 --> 00:07:36,900
-‫So that's 4 plus 2 plus 1.
+‫یعنی 4+2+1
 
 161
 00:07:36,900 --> 00:07:37,972
-‫So that gives you seven.
+‫یعنی کہ 7 (سات).
 
 162
 00:07:37,972 --> 00:07:39,680
-‫And indeed, it would
-‫seem at first glance
+‫اور ابھی ایسا لگےگا کہ
 
 163
 00:07:39,680 --> 00:07:43,750
-‫that computers can count
-‫no higher than this.
+‫Computer سات سے آگے گنتی
+‫نہیں کرسکتا.
 
 164
 00:07:43,750 --> 00:07:45,210
-‫>> But this of course is not true.
+‫>> لیکن اصل میں یہ سچ نہیں ہے.
 
 165
 00:07:45,210 --> 00:07:48,243
-‫What do we humans do when we want
-‫to count higher than like 999?
+‫کیونکہ ہم کیا کرتے ہیں جب ہمیں گنتی کو 
+‫999 سے آگے بڑھانا ہوتا ہے؟
 
 166
 00:07:48,243 --> 00:07:51,000
@@ -785,225 +785,224 @@
 
 167
 00:07:51,000 --> 00:07:53,900
-‫Just carry the one and just
-‫add a fourth digit to the left.
+‫ہم left پر ایک اور digit لگا کر
+‫1 کو اس چوتھے digit پر لکھ دیتے ہیں.
 
 168
 00:07:53,900 --> 00:07:55,070
-‫And so indeed we could.
+‫تو computer بھی اسی طرح سے
 
 169
 00:07:55,070 --> 00:07:57,900
-‫We could have an eight's
-‫place and a 16th's place,
+‫Eights کی place اور 16s کی place کو 
+‫use کر سکتے ہیں.
 
 170
 00:07:57,900 --> 00:08:02,000
-‫and a 32's place, 64, 128-- and you
-‫can just keep going on up to infinity.
+‫اور 32s کی place، اور 64، 128 --
+‫مطلب آپ کتنا بھی آگے جا سکتے ہیں.
 
 171
 00:08:02,000 --> 00:08:04,640
-‫So these zeros and ones--
-‫the so-called binary system--
+‫-- تو اس binary system میں --
+‫ان ones اور zeros کو
 
 172
 00:08:04,640 --> 00:08:10,290
-‫are what a computer scientist would
-‫generally call a bit, or binary digit.
+‫Computer کے سائنسدان binary
+‫digits یا short میں bits کہتے ہیں.
 
 173
 00:08:10,290 --> 00:08:13,590
-‫>> But now, how do we get from the
-‫concept or the graphics of these things
+‫>> لیکن اب، اس پورے concept اور
+‫اس 1s اور  0s کے قصّے کہانی کا
 
 174
 00:08:13,590 --> 00:08:14,620
-‫to an actual computer?
+‫ایک اصل computer سے کیا تعلق؟
 
 175
 00:08:14,620 --> 00:08:17,170
-‫We seem to be skipping a step here.
+‫یہاں ہم نے ایک چیز کی تو بات ہی نہیں کی.
 
 176
 00:08:17,170 --> 00:08:20,210
-‫Well, the only input at the end
-‫of the day, to my laptop here
+‫Well، میرے laptop کو  بالآخر جو input ملتا ہے
 
 177
 00:08:20,210 --> 00:08:22,060
-‫is this flow of electricity.
+‫وہ ہے بجلی !
 
 178
 00:08:22,060 --> 00:08:24,560
-‫Even if it's been a long
-‫time since you thought about
+‫بھلے ہی آپ نے کافی عرصے سے
+‫اس بارے میں نہ سوچا ہو
 
 179
 00:08:24,560 --> 00:08:26,580
-‫or never thought about
-‫how electricity works,
+‫یا کبھی بھی نہ سوچا ہو کہ
+‫بجلی کیسے کام کرتی ہے،
 
 180
 00:08:26,580 --> 00:08:30,909
-‫there's electrons flowing in or
-‫out, and that's my kind of input.
+‫تو یہ اصل میں electrons کا flow ہوتا ہے،
+‫جسے میں ایک لحاظ سے input کہوں گا.
 
 181
 00:08:30,909 --> 00:08:34,659
-‫>> So if that's all that we're
-‫getting as input here,
+‫>> تو laptop کو صرف یہی input مل 
+‫رہا ہے -- یعنی بجلی --
 
 182
 00:08:34,659 --> 00:08:36,830
-‫what can we do with that information?
+‫تو اب اس information (یعنی input) کے ساتھ
+‫ہم کیا کیا کر سکتے ہیں؟
 
 183
 00:08:36,830 --> 00:08:40,040
-‫Well, we might think of a zero as
-‫just an absence of electricity.
+‫Well، بجلی کے نہ ہونے کو ہم
+‫بالکل zero کی طرح سوچ سکتے ہیں.
 
 184
 00:08:40,040 --> 00:08:42,540
-‫Nothing is flowinw, nothing is
-‫moving, nothing is happening.
+‫نہ بجلی آ رہی ہے، نہ electrons کی movement ہے،
+‫یعنی کچھ بھی نہیں ہو رہا.
 
 185
 00:08:42,540 --> 00:08:44,690
-‫That's just the default state-- zero.
+‫تو یہ simply ایک default حالت ہے --  0 (zero).
 
 186
 00:08:44,690 --> 00:08:48,200
-‫But if there is electricity flowing, why
-‫don't we just arbitrarily, but globally
+‫لیکن جب بجلی flow کررہی ہوتی ہے، تو کیوں نہ
+‫ہم سب مل ایسا کریں کہ اپنی مرضی سے
 
 187
 00:08:48,200 --> 00:08:50,250
-‫consistently, call that a one.
+‫اس حالت کو 1 (one) کا نام دے دیں.
 
 188
 00:08:50,250 --> 00:08:54,760
-‫>> So simply by having no power,
-‫we have a zero, yes power,
+‫>> تو simply جب بھی بجلی نہیں ہوگی،
+‫تو ہم کہیں گے zero، اور جب بجلی ہوگی
 
 189
 00:08:54,760 --> 00:08:57,520
-‫we have a one-- no power, yes power.
+‫تو ہم کہیں گے one --
+‫بجلی ہے، بجلی نہیں ہے.
 
 190
 00:08:57,520 --> 00:09:01,520
-‫And in that way, using something
-‫more physical or electronic
+‫اور اس طرح سے ہم کسی physical یا 
+‫electronic چیزوں کو لے کر
 
 191
 00:09:01,520 --> 00:09:05,340
-‫we start to implement this notion of
-‫something either being one or a zero.
+‫ہم اب اس بات کو سمجھ سکتے ہیں کہ
+‫one یا zero ہونے کا کیا مطلب بنتا ہے.
 
 192
 00:09:05,340 --> 00:09:07,230
-‫Indeed, we could just do it over here.
+‫اور یہ ہم یہاں پر کرکے بھی دیکھ سکتے ہیں.
 
 193
 00:09:07,230 --> 00:09:10,590
-‫So here, I have not three but
-‫eight light bulbs, each of which
+‫تو یہاں ہمارے پاس، تین نہیں، بلکہ آٹھ
+‫light کے bulbs ہیں، جس میں سے ہر ایک کا
 
 194
 00:09:10,590 --> 00:09:11,810
-‫has its own switch.
+‫اپنا ایک الگ switch ہے.
 
 195
 00:09:11,810 --> 00:09:15,760
-‫>> And so if I wanted to represent
-‫the number seven here,
+‫>> تو یہاں اگر مجھے نمبر 7 (سات) کو
+‫represent کرنا ہو تو،
 
 196
 00:09:15,760 --> 00:09:18,510
-‫I might turn on these three light bulbs.
+‫میں ان تین lights کو on کردونگا.
 
 197
 00:09:18,510 --> 00:09:21,470
-‫And indeed, inside of
-‫my computer is millions,
+‫اور میرے اس computer کے اندر بھی
+‫اصل میں لاکھوں،
 
 198
 00:09:21,470 --> 00:09:25,650
-‫billions of things that are just
-‫smaller than that, called transistors,
+‫کروڑوں نہایت ہی چھوٹے چھوٹے
+‫transistors ہیں جو کہ
 
 199
 00:09:25,650 --> 00:09:27,330
-‫switches, that you just turn on and off.
+‫switches ہوتے ہیں جو on یا off ہو سکتے ہیں.
 
 200
 00:09:27,330 --> 00:09:30,420
-‫So these are big-- relatively
-‫big-- switches inside my laptop--
+‫تو یہ والے نسبتاً بہت بڑے switches ہیں --
+‫میرے laptop کے اندر
 
 201
 00:09:30,420 --> 00:09:32,150
-‫are many, many, many,
-‫many more switches.
+‫بہت ہی ڈھیر سارے switches ہیں.
 
 202
 00:09:32,150 --> 00:09:35,160
-‫But all they do is exactly that--
-‫turn something on, turn something off.
+‫-- لیکن یہ سب ایک ہی کام کرتے ہیں --
+‫کسی چیز کو on، یا off کرنا.
 
 203
 00:09:35,160 --> 00:09:38,076
-‫And as such, a computer can represent,
-‫with those millions or billions
+‫تو اس طرح computer، ان لاکھوں 
+‫کروڑوں transistors کے ذریعے
 
 204
 00:09:38,076 --> 00:09:40,480
-‫of transistors, lots and
-‫lots of zeros and ones.
+‫ڈھیر سارے zeros اور ones کو
+‫represent کرسکتا ہے.
 
 205
 00:09:40,480 --> 00:09:43,160
-‫And there's other hardware still that
-‫lets you store information long-term,
+‫اور پھر اس میں وہ hardware بھی ہوتا ہے،
+‫جو اس information کو لمبے عرصے تک بھی store کرسکتا ہے.
 
 206
 00:09:43,160 --> 00:09:45,243
-‫so that when you pull the
-‫plug, you don't lose it.
+‫تاکہ جب laptop کو بند بھی کردیں،
+‫وہ information ضائع نہ ہو.
 
 207
 00:09:45,243 --> 00:09:46,900
-‫But that's a story for another day.
+‫لیکن اس کی کہانی کسی اور دن سنیں گے.
 
 208
 00:09:46,900 --> 00:09:51,170
-‫>> So what can we do with these bits?
+‫>> تو اب ان bits کے ساتھ ہم کیا کرسکتے ہیں؟
 
 209
 00:09:51,170 --> 00:09:54,309
-‫Might we just to take
-‫the pressure off of me--
+‫اب میں تھوڑا relax کرتا ہوں --
 
 210
 00:09:54,309 --> 00:09:56,600
-‫might someone want to come
-‫up here and offer up a demo?
+‫اور آپ میں سے کوئی یہاں ایک demo 
+‫دینا پسند کریگا؟
 
 211
 00:09:56,600 --> 00:09:57,516
-‫I saw this hand first.
+‫میں نے ان کا ہاتھ سب سے پہلے دیکھا.
 
 212
 00:09:57,516 --> 00:09:58,709
-‫What's your name?
+‫کیا نام ہے آپ کا؟
 
 213
 00:09:58,709 --> 00:09:59,250
-‫MADAY: Maday.
+‫ماڈے
 
 214
 00:09:59,250 --> 00:10:00,542
-‫DAVID MALAN: Maday, come on up.
+‫اوپر آجائیں، ماڈے!
 
 215
 00:10:00,542 --> 00:10:01,250
@@ -1015,11 +1014,11 @@
 
 217
 00:10:02,390 --> 00:10:02,930
-‫>> DAVID MALAN: Come this way.
+‫>> یہاں آجائیں.
 
 218
 00:10:02,930 --> 00:10:04,182
-‫I won't have to lip you up.
+‫تاکہ مجھے آپ کو اوپر نہ کھینچنا پڑے.
 
 219
 00:10:04,182 --> 00:10:04,682
@@ -1027,21 +1026,21 @@
 
 220
 00:10:04,682 --> 00:10:11,090
-‫So here, we have, notice-- one, two--
-‫we'll edit that out-- one, two, four,
+‫تو یہ دیکھیں، یہاں ہمارے پاس ہے -- 1، 2 --
+‫دوبارہ سے کرتے ہیں -- 1، 2، 4،
 
 221
 00:10:11,090 --> 00:10:13,350
-‫eight, 16, 32, 64, 128.
+‫8، 16، 32، 64، 128
 
 222
 00:10:13,350 --> 00:10:14,220
-‫This is deliberate.
+‫اور سوچ سمجھ کر
 
 223
 00:10:14,220 --> 00:10:17,370
-‫There's eight bits here--
-‫binary digits-- zeros and ones.
+‫یہاں 8 (آٹھ) bits ہیں -- binary digits --
+‫zeros اور ones
 
 224
 00:10:17,370 --> 00:10:21,460
