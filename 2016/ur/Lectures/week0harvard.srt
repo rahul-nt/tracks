@@ -1308,7 +1308,7 @@
 
 285
 00:12:31,030 --> 00:12:35,209
-‫الفاظ لکھنا، emails، اور 
+‫الفاظ لکھنا، emails، اور
 ‫دوسری اس ہی طرح کی modern
 
 286
@@ -1346,7 +1346,7 @@
 
 293
 00:12:56,620 --> 00:13:00,210
-‫اور اسی طرح سے کئی دوسرے zeros اور ones کے 
+‫اور اسی طرح سے کئی دوسرے zeros اور ones کے
 ‫patterns، یعنی numbers کو،
 
 294
@@ -1377,7 +1377,7 @@
 
 299
 00:13:19,620 --> 00:13:22,500
-‫store کر رہا ہو -- 72, پھر 73, 
+‫store کر رہا ہو -- 72, پھر 73,
 ‫اور پھر 33 --
 
 300
@@ -1386,7 +1386,7 @@
 
 301
 00:13:26,640 --> 00:13:28,150
-‫>> اس کا جواب ہے HI، اور 
+‫>> اس کا جواب ہے HI، اور
 ‫پھر آگے کچھ اور.
 
 302
@@ -1555,7 +1555,7 @@
 
 336
 00:15:07,830 --> 00:15:11,200
-‫تو اب آپ photographs اور animated 
+‫تو اب آپ photographs اور animated
 ‫gif (یعنی animated تصویروں) کو،
 
 337
@@ -1646,7 +1646,7 @@
 
 355
 00:15:59,650 --> 00:16:03,470
-‫red اور green اور blue اور باقی multimedia 
+‫red اور green اور blue اور باقی multimedia
 ‫کو represent کیا جا سکتا ہے.
 
 356
@@ -1660,7 +1660,7 @@
 
 358
 00:16:09,790 --> 00:16:11,980
-‫>> اور اسی طرح کی ایک problem، 
+‫>> اور اسی طرح کی ایک problem،
 ‫جس کو ابھی ہم حل کرنے کوشش کرینگے،
 
 359
@@ -1703,7 +1703,7 @@
 
 367
 00:16:32,050 --> 00:16:35,990
-‫>> لیکن اسے ہم ایک اور ذریعے سے بھی 
+‫>> لیکن اسے ہم ایک اور ذریعے سے بھی
 ‫کر سکتے ہیں -- اور دراصل computers میں
 
 368
@@ -2126,7 +2126,7 @@
 
 466
 00:21:16,340 --> 00:21:19,215
-‫اور اسنے کسی اور کو، اور کسی اور نے 
+‫اور اسنے کسی اور کو، اور کسی اور نے
 ‫کسی اور کو، تو اس طرح اصولاً،
 
 467
@@ -2176,7 +2176,7 @@
 
 477
 00:21:48,670 --> 00:21:50,740
-‫جسکا مطلب یہ کہ ہمارے 
+‫جسکا مطلب یہ کہ ہمارے
 ‫algorithm میں bugs تھے.
 
 478
@@ -2230,7 +2230,7 @@
 
 489
 00:22:16,270 --> 00:22:18,810
-‫میں نے ایک لحاظ سے آپ سب لوگوں کو 
+‫میں نے ایک لحاظ سے آپ سب لوگوں کو
 ‫trick کیا تھا آپ سب  کے ڈھیر سارے
 
 490
@@ -2288,163 +2288,166 @@
 
 501
 00:22:51,110 --> 00:22:53,900
-‫Eventually, I find
-‫myself in the B section.
+‫اور اس طرح کرتے کرتے میں  B
+‫section میں آگیا.
 
 502
 00:22:53,900 --> 00:22:56,910
-‫And this is an algorithm--
-‫step-by-step instruction.
+‫اور یہ ایک algorithm ہے -- جس میں
+‫step-by-step ہدایت (instruction) کو follow کرنا ہے.
 
 503
 00:22:56,910 --> 00:22:59,890
-‫Start at the beginning and one page
-‫at a time, look for Mike Smith.
+‫پہلے page سے شروع کرکے ایک ایک page
+‫پر Mike Smith کو ڈھونڈنا ہے.
 
 504
 00:22:59,890 --> 00:23:03,410
-‫Is this correct-- this
-‫algorithm or approach?
+‫کیا یہ طریقہ یا algorithm صحیح
+‫صحیح ہے؟
 
 505
 00:23:03,410 --> 00:23:04,550
-‫>> Yeah, it's correct.
+‫>> ہاں، یہ صحیح طریقہ ہے.
 
 506
 00:23:04,550 --> 00:23:06,840
-‫If Mike's here, eventually
-‫I'll get to him.
+‫اگر Mike کا نام یہاں ہوگا
+‫تو بالآخر مجھے مل جائے گا.
 
 507
 00:23:06,840 --> 00:23:08,139
-‫But it's not efficient.
+‫لیکن یہ efficient (مؤثر) طریقہ نہیں ہے.
 
 508
 00:23:08,139 --> 00:23:09,180
-‫It's obviously very slow.
+‫کیونکہ obviously یہ بہت slow ہے.
 
 509
 00:23:09,180 --> 00:23:11,340
-‫So I can leverage the
-‫same twosies approach.
+‫تو پھر میں وہی ہر دو دو page ایک ساتھ
+‫پلٹنے والا طریقہ اپنا سکتا ہوں.
 
 510
 00:23:11,340 --> 00:23:15,350
-‫I can do sort of two,
-‫four, six, eight, 10, 12.
+‫میں کچھ یوں کر سکتا ہوں،
+‫2، 4، 6، 8، 10، 12.
 
 511
 00:23:15,350 --> 00:23:16,330
-‫It's twice as fast.
+‫میری speed اب double ہوگئی.
 
 512
 00:23:16,330 --> 00:23:18,290
-‫I'm going to get to Mike
-‫faster if he's there.
+‫اب میں زیادہ تیزی سے Mike کو
+‫ڈھونڈ لونگا اگر وہ یہاں ہوا.
 
 513
 00:23:18,290 --> 00:23:20,770
-‫Is it correct?
+‫کیا یہ طریقہ صحیح ہے؟
 
 514
 00:23:20,770 --> 00:23:22,320
-‫Yes, but I heard a little-- no.
+‫صحیح ہے؟ مجھے ہلکی سی
+‫"نہیں" کی آواز آئی ابھی.
 
 515
 00:23:22,320 --> 00:23:24,200
-‫Now I heard a no.
+‫اب میں نے "نہیں" سنا.
 
 516
 00:23:24,200 --> 00:23:24,700
-‫Yeah.
+‫جی ہاں.
 
 517
 00:23:24,700 --> 00:23:26,190
-‫There's a bug potentially.
+‫اس طریقے میں ایک bug (مسئلہ) ہے.
 
 518
 00:23:26,190 --> 00:23:29,374
-‫Maybe Mike just accidentally gets
-‫sandwiched between two pages,
+‫کیا پتہ Mike کا نام دو pages کے
+‫درمیان موجود ہو.
 
 519
 00:23:29,374 --> 00:23:31,290
-‫because I'm flying through
-‫this two at a time.
+‫اور دو دو page پلٹتے پلٹتے غلطی سے
+‫اسکا نام میری نظر سے بچ جائے.
 
 520
 00:23:31,290 --> 00:23:33,580
-‫So at least we need some
-‫kind of conditional fix.
+‫تو کم از کم اب ہمیں ایک condition (شرط)
+‫رکھ کے اس کو صحیح کرنا ہے.
 
 521
 00:23:33,580 --> 00:23:35,330
-‫I need to say, hey,
-‫if I hit someone whose
+‫اور مجھے کہنا پڑیگا، کہ جناب
+‫اگر مجھے کوئی ایسا نام نظر آیا
 
 522
 00:23:35,330 --> 00:23:39,190
-‫name starts with a T instead of an S,
-‫I better double back at least one page.
+‫جو S (یعنی Smith) کی بجائے T سے شروع ہوتا ہو،
+‫تو کم از کم اس صورت میں، میں دو دو pages پلٹونگا.
 
 523
 00:23:39,190 --> 00:23:40,767
-‫So buggy at first, but fixable.
+‫تو طریقہ buggy (مسئلے والا) تھا،
+‫لیکن صحیح کر لیا ہم نے.
 
 524
 00:23:40,767 --> 00:23:43,850
-‫But none of us are going to look for
-‫Mike Smith through a 1,000 page phone
+‫لیکن، ہم میں سے کوئی بھی Mike Smith کو
+‫اس 1000 page کی phone book میں
 
 525
 00:23:43,850 --> 00:23:45,290
-‫book one page at a time.
+‫ایک ایک page پلٹ کر نہیں ڈھونڈیگا.
 
 526
 00:23:45,290 --> 00:23:48,486
-‫What's a normal person going to do?
+‫تو ایک normal بندہ پھر کیا کریگا؟
 
 527
 00:23:48,486 --> 00:23:50,860
-‫You're going to go to the S's,
-‫if you knew where the S's.
+‫اگر آپکو پتہ ہو کہ S والے نام کہاں ہیں تو
+‫آپ S والے ناموں میں جائیں گے،
 
 528
 00:23:50,860 --> 00:23:54,230
-‫You might go roughly to the middle
-‫or slightly skewed towards the end.
+‫اور S والے ناموں کے تقریباً بیچ میں یا
+‫شاید تھوڑا آخر کے ناموں میں جائیں گے.
 
 529
 00:23:54,230 --> 00:23:56,850
-‫And I look down here and
-‫I'm in the M section.
+‫اور میں  اس book کی طرف دیکھوں
+‫تو میں ابھی M والے section میں ہوں.
 
 530
 00:23:56,850 --> 00:23:58,952
-‫But what do you know
-‫about this problem now,
+‫لیکن ایسا کیا ہے جو اب ہمیں معلوم
+‫ہو چکا ہے اس problem کے بارے میں،
 
 531
 00:23:58,952 --> 00:24:02,160
-‫that we didn't necessarily know before
-‫with all of us just counting ourselves
+‫جو شاید ہمیں پہلے نہیں معلوم تھا جب
+‫ہم سب ایک ایک page پلٹ کر دیکھ رہے تھے؟
 
 532
 00:24:02,160 --> 00:24:03,030
-‫equivalently?
+‫
 
 533
 00:24:03,030 --> 00:24:06,010
-‫Well, Mike is clearly going
-‫to be in this half of the book
+‫وہ یہ کہ Mike کا نام book کے اس
+‫والے آدھے حصّے میں ہونا چاہیئے.
 
 534
 00:24:06,010 --> 00:24:07,920
-‫if he's here at all because it's sorted.
+‫اور وہ اس لئے کہ اس book میں
+‫سارے نام ترتیب سے لکھے گئے ہیں.
 
 535
 00:24:07,920 --> 00:24:10,160
-‫>> And so you can very dramatically--
+‫>> تو اب آپ بڑے ڈرامائی انداز میں --
 
 536
 00:24:10,160 --> 00:24:11,250
@@ -2452,7 +2455,7 @@
 
 537
 00:24:11,250 --> 00:24:12,300
-‫>> I know.
+‫>> ہیں نا.
 
 538
 00:24:12,300 --> 00:24:16,940
@@ -2460,307 +2463,316 @@
 
 539
 00:24:16,940 --> 00:24:19,450
-‫>> It's actually really easy if
-‫you do it down the spine there.
+‫>> دراصل یہ بڑا ہی آسان ہے اگر
+‫آپ book کے بالکل بیچ سے یہ کریں.
 
 540
 00:24:19,450 --> 00:24:22,070
-‫But you can then throw
-‫half of the problem away.
+‫لیکن اب آپنے اپنی آدھی
+‫problem دور پھینک دی.
 
 541
 00:24:22,070 --> 00:24:25,950
-‫Now, I'm left with the same problem--
-‫find Mike Smith in a phone book--
+‫لیکن اب بھی مجھے وہی problem حل
+‫کرنی ہے -- یعنی Mike کا نام ڈھونڈنا.
 
 542
 00:24:25,950 --> 00:24:29,610
-‫but now the phone book starts at M
-‫and goes to Z, but it's half as big.
+‫لیکن اب book آدھی ہوگئی ہے کیونکہ
+‫اب یہ M سے شروع ہوکر Z پر ختم ہوتی ہے.
 
 543
 00:24:29,610 --> 00:24:30,890
-‫>> But this is what's impressive.
+‫>> لیکن یہی سب سے impressive بات ہے.
 
 544
 00:24:30,890 --> 00:24:34,170
-‫Just like in theory, you guys, when
-‫you all sat down only half at a time,
+‫جس طرح جب ایک وقت میں آپ
+‫میں سے آدھے لوگ بیٹھتے گئے،
 
 545
 00:24:34,170 --> 00:24:37,150
-‫the problem got half as big,
-‫half as big, again and again.
+‫اور ہر بار problem ادھے سے
+‫ادھے سے آدھی ہوتی گئی.
 
 546
 00:24:37,150 --> 00:24:40,260
-‫So has this problem become the
-‫same problem but half as big.
+‫بالکل اسی طرح، یہ problem
+‫بھی آدھی ہوگئی ہے.
 
 547
 00:24:40,260 --> 00:24:42,670
-‫Now it's a 250 page problem.
+‫اور اب یہ 250 pages کی problem بن گئی ہے.
 
 548
 00:24:42,670 --> 00:24:45,340
-‫As soon as I realize, oh, I'm
-‫in the T section accidentally.
+‫اور جیسے ہی میں نے کہ، oh، یہ تو
+‫میں غلطی سے T والے section میں ہوں.
 
 549
 00:24:45,340 --> 00:24:46,590
-‫I've gone too far.
+‫بہت آگے آگیا ہوں.
 
 550
 00:24:46,590 --> 00:24:48,500
-‫I can throw that half
-‫of the phone book away.
+‫تو پھر میں phone book کے اس آدھے
+‫حصّے کو بھی دور پھینک سکتا ہوں.
 
 551
 00:24:48,500 --> 00:24:50,410
-‫Now, I'm down to a
-‫quarter of the problem.
+‫اب میں problem کو
+‫ایک چوتھائی بنا دیا ہے.
 
 552
 00:24:50,410 --> 00:24:53,910
-‫>> And you can repeat, repeat,
-‫repeat until, in theory, you're
+‫>> اور یہ آپ بار کر سکتا ہیں،
+‫جب تک آپ کے پاس، اصولاً،
 
 553
 00:24:53,910 --> 00:24:55,460
-‫left with just one page.
+‫صرف ایک page نہ رہ جاۓ.
 
 554
 00:24:55,460 --> 00:24:59,010
-‫And if Mike is on that page,
-‫I can now solve this problem.
+‫اور Mike اگر اس page پر ہوگا، تو اس
+‫problem کو اب میں solve کرسکتا ہوں.
 
 555
 00:24:59,010 --> 00:25:00,810
-‫But how quickly did I solve it?
+‫لیکن کتنی دیر لگی مجھے اسے حل کرنے میں؟
 
 556
 00:25:00,810 --> 00:25:05,420
-‫In the first case, it took me like
-‫maybe 1,000 steps to find Mike Smith.
+‫پہلے والے case میں، مجھے شاید 1000
+‫steps لگ گئے Mike Smith کو ڈھونڈے میں.
 
 557
 00:25:05,420 --> 00:25:09,260
-‫It might have taken me--
-‫I picked up the phone book
+‫یعنی لگ جاتے -- اگر میں یہ
+‫phone book اٹھا کر
 
 558
 00:25:09,260 --> 00:25:11,440
-‫and I started looking
-‫one page at a time,
+‫ایک وقت میں ایک ایک
+‫page کو چھان رہا ہوتا،
 
 559
 00:25:11,440 --> 00:25:13,480
-‫and Mike might be 1,000 pages later.
+‫اور شاید پھر 1000 pages کے بعد
+‫مجھے Mike مل جاتا.
 
 560
 00:25:13,480 --> 00:25:16,020
-‫>> Second approach maybe
-‫takes me 500 steps,
+‫>> دوسری والی approach میں
+‫شاید مجھے 500 steps لگتے.
 
 561
 00:25:16,020 --> 00:25:17,960
-‫because I'm flying
-‫through two at a time.
+‫کیوں کہ میں دو دو pages
+‫ایک ساتھ پلٹ رہا ہوتا.
 
 562
 00:25:17,960 --> 00:25:21,082
-‫And the third approach though,
-‫it's especially powerful.
+‫لیکن یہ جو تیسری approach ہے
+‫یہ نہایت ہی powerful ہے.
 
 563
 00:25:21,082 --> 00:25:23,790
-‫But let's consider what we actually
-‫did with this third approach.
+‫لیکن اب تھوڑا یہ دیکھتے ہیں کہ اس تیسری
+‫approach میں ہم نے کیا کیا آخر.
 
 564
 00:25:23,790 --> 00:25:27,590
-‫I'll have what I'll call just these
-‫statements here, one at a time.
+‫اور یہ جو یہاں لکھی ہوئیں ہیں، ان میں سے
+‫ہر ایک line کو میں statement (بیانیہ) کہونگا.
 
 565
 00:25:27,590 --> 00:25:28,560
-‫Pick up a phone book.
+‫<font color="#FFFF00">ایک phone book اٹھایئے</font>
+‫<font color="#FFFF00"> Pick up a phone book </font>
 
 566
 00:25:28,560 --> 00:25:30,130
-‫Open to the middle of the phone book.
+‫<font color="#FFFF00"> فون book کے بیچ میں جایئے</font>
+‫<font color="#FFFF00"> Open to the middle of the phone book  </font>
 
 567
 00:25:30,130 --> 00:25:31,419
-‫Look at names.
+‫<font color="#FFFF00"> ناموں کو دیکھیئے</font>
+‫<font color="#FFFF00"> Look at names  </font>
 
 568
 00:25:31,419 --> 00:25:33,960
-‫And then things get a little
-‫more intellectually interesting,
+‫اور اب آگے چیزیں تھوڑی سی دلچسپ
+‫ہوجائیں گی، عقلی طور پہ،
 
 569
 00:25:33,960 --> 00:25:35,170
-‫if still simple.
+‫لیکن پھر بھی بہت ہی simple.
 
 570
 00:25:35,170 --> 00:25:38,350
-‫If Smith is among the
-‫names on that current page,
+‫<font color="#FFFF00"> اگر تو Smith ان ناموں میں موجود ہے </font>اس page پر
+‫<font color="#FFFF00"> If Smith is among the names </font>
 
 571
 00:25:38,350 --> 00:25:40,170
-‫then do something conditionally.
+‫اس صورت میں پھر ہم شرطیہ طور پر ایک کام کرینگے.
 
 572
 00:25:40,170 --> 00:25:41,840
-‫It's like a fork in the road.
+‫یعنی ایک طرح سے ہمیں ایک فیصلہ کرنا ہے اب.
 
 573
 00:25:41,840 --> 00:25:42,660
-‫Call Mike.
+‫<font color="#FFFF00"> Mike کو call کیجئے </font>
+‫<font color="#FFFF00"> Call Mike </font>
 
 574
 00:25:42,660 --> 00:25:44,930
-‫If Mike is among the names
-‫on that page, called Mike.
+‫اگر Mike کا نام اس page کے ناموں میں موجود ہے،
+‫تو Mike کو call کرلی ہم نے.
 
 575
 00:25:44,930 --> 00:25:49,720
-‫But only do line four if line
-‫tree, if you will, is true.
+‫لیکن چوتھی line میں لکھا کام ہم صرف تب کریںگے
+‫جب تیسری line سچ (true) ہو.
 
 576
 00:25:49,720 --> 00:25:51,590
-‫The answer to that question is yes.
+‫اور اس کا جواب ہے ہاں، یہ true ہے.
 
 577
 00:25:51,590 --> 00:25:55,520
-‫>> Else if Smith is earlier in the book--
-‫in other words, if I'm in the M section
+‫<font color="#FFFF00"> ورنہ اگر Smith کا نام book کے پچھلے حصّے میں ہے</font>
+‫-- یعنی اگر میں M والے section میں ہوں،
+‫<font color="#FFFF00"> else if Smith is earlier in the book </font>
 
 578
 00:25:55,520 --> 00:25:58,540
-‫and I'm looking for someone to
-‫the left, then what I should do
+‫اور اگر میں book کے left طرف  دیکھ
+‫رہا ہوں، تو پھر مجھے ایک بہت ہی
 
 579
 00:25:58,540 --> 00:26:00,300
-‫is something very similar.
+‫ملتا جلتا کام کرنا چاہیئے.
 
 580
 00:26:00,300 --> 00:26:03,440
-‫Then I should open to the middle
-‫of the left half of the book.
+‫پھر مجھے <font color="#FFFF00">اس book کے left والے آدھے حصّے کے بیچ میں جانا چاہیئے </font>
+‫<font color="#FFFF00"> open to the middle of the left half of the book </font>
 
 581
 00:26:03,440 --> 00:26:07,930
-‫So go left, and then
-‫go back to step two.
+‫تو ہم left جائینگے ، اور وہاں سے
+‫<font color="#FFFF00"> دوبارہ step نمبر 2 دہرائیں گے </font>
+‫<font color="#FFFF00"> go back to step 2 </font>
 
 582
 00:26:07,930 --> 00:26:09,290
-‫Look at the names there.
+‫وہاں پر ناموں کو دیکھیں گے.
 
 583
 00:26:09,290 --> 00:26:12,779
-‫>> So in other words, do the same thing,
-‫but on a problem that's been halved.
+‫>> دوسرے الفاظ میں، ہم وہی کام کر رہے ہیں،
+‫لیکن اب ہم نے problem کو آدھا کر دیا ہے.
 
 584
 00:26:12,779 --> 00:26:13,570
-‫You know what else?
+‫ورنہ، پتہ ہے، کیا کرینگے؟
 
 585
 00:26:13,570 --> 00:26:16,470
-‫If Smith is later in the book
-‫based on the page I'm looking at,
+‫<font color="#FFFF00"> ورنہ </font>اگر سامنے کھلے ہوئے page کے مطابق
+‫<font color="#FFFF00"> اگر Smith کے بعد والے حصّے میں ہے book کے تو </font>
+‫<font color="#FFFF00"> Else if Smith is later in the book </font>
 
 586
 00:26:16,470 --> 00:26:18,790
-‫open to the middle of the
-‫right half of the book
+‫<font color="#FFFF00"> اس book کے right والے آدھے حصّے کے بیچ میں جائیے </font>
+‫<font color="#FFFF00"> open to the middle of the right half of the book </font>
 
 587
 00:26:18,790 --> 00:26:22,050
-‫and then go back again
-‫to step two, else--
+‫اور پھر <font color="#FFFF00"> دوبارہ سے step نمبر 2 دہرائیے، ورنہ </font>
+‫<font color="#FFFF00"> go back to step two, else </font>
 
 588
 00:26:22,050 --> 00:26:24,000
-‫there's a fourth possibility here.
+‫ایک چوتھی possibility بھی ہو سکتی ہے.
 
 589
 00:26:24,000 --> 00:26:28,830
-‫Mike's either here or to the left
-‫or to the right or not there.
+‫یا تو Mike یہیں ہے، یا پھر left پر ہے
+‫یا پھر right پر ہے، یا کہیں ہے نہیں.
 
 590
 00:26:28,830 --> 00:26:30,570
-‫And here we better consider this.
+‫اور اس بارے ابھی ہی بات کرلینا بہتر ہے.
 
 591
 00:26:30,570 --> 00:26:33,360
-‫And in fact, if you've ever had
-‫your computer just crash on you,
+‫اور اگر واقعی میں کبھی آپ کا computer
+‫crash ہوا ہے،
 
 592
 00:26:33,360 --> 00:26:36,822
-‫that is sometimes, but not always, the
-‫result of just a human programmer not
+‫جو ہمیشہ تو نہیں لیکن کبھی کبھار ہو جاتا ہے، تو اس کی وجہ یہی
+‫ہوتی ہے کہ programmer (یعنی software لکھنے والے بندے) نے
 
 593
 00:26:36,822 --> 00:26:39,280
-‫realizing, oh shoot, there's
-‫actually this fourth scenario.
+‫اس چوتھی والی possibility کے بارے میں
+‫سوچا نہیں ہوتا.
 
 594
 00:26:39,280 --> 00:26:41,650
-‫And if you don't write code
-‫to handle that scenario,
+‫اور اگر آپ اس طرح کے scenario کو
+‫handle کرنے کیلئے code نہیں لکھیں گے،
 
 595
 00:26:41,650 --> 00:26:43,220
-‫sometimes you don't know
-‫what the computer might do.
+‫تو آپ کو پھر اندازہ ہی نہ
+‫ہو پائے کہ computer کیا کریگا.
 
 596
 00:26:43,220 --> 00:26:44,770
-‫And indeed a program might crash.
+‫اور دراصل program
+‫crash بھی ہو سکتا ہے.
 
 597
 00:26:44,770 --> 00:26:47,550
-‫>> But in this case, I thought
-‫about it, and I said, else quit,
+‫لیکن اس case میں نے اس کا دھیان رکھا ہے
+‫اس لیے میں نے لکھا <font color="#FFFF00"> ورنہ quit کردو (چھوڑ دو) </font>
+‫<font color="#FFFF00"> else quit</font>
 
 598
 00:26:47,550 --> 00:26:49,850
-‫because that's the fourth
-‫logical possible scenario.
+‫کیوں کہ logically یہی چوتھا scenario
+‫possible ہو سکتا ہے.
 
 599
 00:26:49,850 --> 00:26:51,950
-‫Now, let's just add
-‫some vocabulary so we
+‫اب کچھ technical الفاظ کی
+‫بات کر لیتے ہیں تاکہ پھر ہم
 
 600
 00:26:51,950 --> 00:26:55,320
-‫can start to toss around terms that
-‫are otherwise pretty intuitive.
+‫ان terms (الفاظ) کو سمجھ لیں، جو ویسے
+‫تو ہم عام بول چال میں use کرتے ہیں.
 
 601
 00:26:55,320 --> 00:26:57,870
-‫All of the things I've just
-‫highlighted in yellow here,
+وہ ساری چیزیں جن کو ابھی ابھی میں yellow
+color میں highlight کیا ہے.
 
 602
 00:26:57,870 --> 00:27:00,140
-‫I'm just going to the
-‫functions or procedures.
+ان ہیں functions یا procedures کا نام دونگا.
 
 603
 00:27:00,140 --> 00:27:01,590
-‫They're just kind of actions.
+یہ سب ایک طرح کے actions (عمل) ہیں.
 
 604
 00:27:01,590 --> 00:27:04,900
