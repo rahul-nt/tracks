@@ -2593,7 +2593,7 @@
 
 566
 00:25:28,560 --> 00:25:30,130
-‫<font color="#FFFF00"> فون book کے بیچ میں جایئے</font>
+‫<font color="#FFFF00"> فون book سے بیچ سے کھولیئے</font>
 ‫<font color="#FFFF00"> Open to the middle of the phone book  </font>
 
 567
@@ -2659,7 +2659,7 @@
 
 580
 00:26:00,300 --> 00:26:03,440
-‫پھر مجھے <font color="#FFFF00">اس book کے left والے آدھے حصّے کے بیچ میں جانا چاہیئے </font>
+‫پھر مجھے <font color="#FFFF00">اس book کے left والے آدھے حصّے کو بیچ سے کھولنا چاہیئے </font>
 ‫<font color="#FFFF00"> open to the middle of the left half of the book </font>
 
 581
@@ -2689,7 +2689,7 @@
 
 586
 00:26:16,470 --> 00:26:18,790
-‫<font color="#FFFF00"> اس book کے right والے آدھے حصّے کے بیچ میں جائیے </font>
+‫<font color="#FFFF00"> اس book کے right والے آدھے حصّے کو بیچ سے کھولیئے </font>
 ‫<font color="#FFFF00"> open to the middle of the right half of the book </font>
 
 587
@@ -2763,255 +2763,256 @@
 
 601
 00:26:55,320 --> 00:26:57,870
-وہ ساری چیزیں جن کو ابھی ابھی میں yellow
-color میں highlight کیا ہے.
+‫وہ ساری چیزیں جن کو ابھی ابھی میں yellow
+‫color میں highlight کیا ہے.
 
 602
 00:26:57,870 --> 00:27:00,140
-ان ہیں functions یا procedures کا نام دونگا.
+‫ان ہیں functions یا procedures کا نام دونگا.
 
 603
 00:27:00,140 --> 00:27:01,590
-یہ سب ایک طرح کے actions (عمل) ہیں.
+‫یہ سب ایک طرح کے actions (عمل) ہیں.
 
 604
 00:27:01,590 --> 00:27:04,900
-‫So pick up, open to, look
-‫at, call, open, open,
+‫یعنی pick up (اٹھاؤ)، open (کھولو)، look at (دیکھو)، call
+‫(call کرو)، open (کھولو)، open (کھولو)
 
 605
 00:27:04,900 --> 00:27:09,170
-‫quit-- these are just actions, or we'll
-‫call them more formally, functions.
+‫quit (چھوڑ دو) -- یہ سب actions ہیں جنہیں
+‫Computer سائنس کی زبان میں ہم function کہیںگے.
 
 606
 00:27:09,170 --> 00:27:11,410
-‫>> Meanwhile, now in yellow,
-‫I've highlighted things
+‫>> ساتھ ہی yellow رنگ میں، میں نے
+‫جن چیزوں کو highlight کی ہے
 
 607
 00:27:11,410 --> 00:27:14,084
-‫that-- let's just start calling
-‫them conditions or branches.
+‫ان کو ہم conditions (شرائط) یا branches
+‫(شاخیں) کہیںگے.
 
 608
 00:27:14,084 --> 00:27:16,750
-‫These are decision points where
-‫you might go this way, this way,
+‫یہ فیصلہ لینے کے وہ points ہیں جہاں سے
+‫آپ شاید یہاں آسکتے ہیں، یا پھر یہاں،
 
 609
 00:27:16,750 --> 00:27:18,100
-‫or some other direction still.
+‫یا پھر کسی اور direction میں جا سکتے ہیں.
 
 610
 00:27:18,100 --> 00:27:19,430
-‫So those will be conditions.
+‫تو یہ سب conditions (شرائط) ہیں.
 
 611
 00:27:19,430 --> 00:27:20,930
-‫And now this one's a little fancier.
+‫اور یہ والی تھوڑی سی fancy ہے.
 
 612
 00:27:20,930 --> 00:27:24,600
-‫Let's call these questions
-‫Boolean expressions,
+‫ان سوالوں کو ہم Boolean Expression 
+‫(بُولییَن جملہ) کا نام دے دیتے ہیں،
 
 613
 00:27:24,600 --> 00:27:26,530
-‫after someone with a last name Bool.
+‫جو  Bool نام کے ایک شخص کے نام  پر رکھا گیا ہے.
 
 614
 00:27:26,530 --> 00:27:28,340
-‫>> And a Boolean expression
-‫is just something
+‫>> اور ایک Boolean جملہ
+‫وہ ہوتا ہے جو کہ
 
 615
 00:27:28,340 --> 00:27:30,290
-‫that's either true or false, yes or no.
+‫یا تو سچ ہو یا جھوٹ، ہاں ہو یا نہ.
 
 616
 00:27:30,290 --> 00:27:35,870
-‫So it's the question whose answer you
-‫care about, so as to in a condition
+‫تو یہ ایک ایسا سوال ہوتا جس کا آپ کو چاہیئے
+‫ہوتا ہے، تاکہ کسی condition کے بارے میں آپ
 
 617
 00:27:35,870 --> 00:27:39,210
-‫make a decision-- get back an answer,
-‫and then go left or right, or something
+‫فیصلہ کر سکیں -- تاکہ جواب جاننے پر
+‫آپ یا تو left یا right جاسکیں، یا پھر بالکل
 
 618
 00:27:39,210 --> 00:27:40,450
-‫else altogether.
+‫کچھ اور کر سکیں.
 
 619
 00:27:40,450 --> 00:27:42,860
-‫>> And then lastly, these
-‫lines here-- go back
+‫>> اور پھر آخر میں یہ والی lines --
 
 620
 00:27:42,860 --> 00:27:44,737
-‫to step two, go back
-‫to step two-- we could
+‫<font color="#FFFF00"> step نمبر 2 پر واپس جاؤ </font>
+‫<font color="#FFFF00"> go back to step 2</font>
+‫-- انکو ہم
 
 621
 00:27:44,737 --> 00:27:46,320
-‫implement this idea in different ways.
+‫مختلف طریقوں سے implement کر سکتے ہیں.
 
 622
 00:27:46,320 --> 00:27:49,028
-‫And then those of you with
-‫programming experience might have done
+‫اور آپ میں سے جن لوگوں کو programming کی 
+‫ہوگی انہوں نے اس کو
 
 623
 00:27:49,028 --> 00:27:50,670
-‫or can imagine doing this differently.
+‫ مختلف طریقے سے کیا یا سوچا ہوگا.
 
 624
 00:27:50,670 --> 00:27:53,170
-‫But for today's purposes, it's
-‫just the idea that matters.
+‫لیکن آج اتنا ہی کافی ہوگا کہ آپ
+‫اس کے پیچھے کا idea سمجھ لیں.
 
 625
 00:27:53,170 --> 00:27:55,400
-‫This is inducing what
-‫we'll generally call
+‫یہ اصل میں ایک ایسی چیز کو
+‫جنم دے رہا ہے جسے عام طور پر ہم
 
 626
 00:27:55,400 --> 00:28:00,110
-‫a loop-- some kind of cycle, because
-‫it's making me do something again.
+‫Loop (چکر) کہتے ہیں -- ایک طرح کا cycle، 
+‫کیونکہ یہ ایک ہی کام کو بار بار کروا رہا ہے.
 
 627
 00:28:00,110 --> 00:28:03,340
-‫>> So now, let's just consider
-‫how good this algorithm is.
+‫>> تو اب ہم یہ دیکھتے ہیں کہ 
+‫یہ algorithm کتنے پانی میں ہے.
 
 628
 00:28:03,340 --> 00:28:03,899
-‫It's correct.
+‫یہ بالکل صحیح algorithm ہے.
 
 629
 00:28:03,899 --> 00:28:06,940
-‫If Mike's in the book, it's one of
-‫those four scenarios-- again and again
+‫اگر Mike اس book میں ہے، تو یہ چار scenarios
+‫(یعنی صورتیں) ہونگی -- اور ہم بار بار
 
 630
 00:28:06,940 --> 00:28:08,023
-‫and again, we'll find him.
+‫لگاتار اس ڈھونڈنے کی کوشش کرینگے.
 
 631
 00:28:08,023 --> 00:28:08,890
-‫But how good is it?
+‫لیکن کتنے پانی میں ہے یہ algorithm؟
 
 632
 00:28:08,890 --> 00:28:10,150
-‫Well, we don't have
-‫to be too formal here.
+‫ہمیں بہت زیادہ تکلّف کرنے 
+‫کی ضرورت نہیں ہے
 
 633
 00:28:10,150 --> 00:28:12,066
-‫But let's just plot
-‫something, x and y, to get
+‫لیکن ہم کچھ x اور y کو plot 
+‫کرکے تھوڑا سا یہ
 
 634
 00:28:12,066 --> 00:28:14,470
-‫a sense of the shape of this problem.
+‫اس problem کی shape کو سمجھنے کی کوشش کرتے ہیں.
 
 635
 00:28:14,470 --> 00:28:17,160
-‫>> On the x-axis here is
-‫the size of my problem.
+‫>> x-axis پر ہے problem کی size
 
 636
 00:28:17,160 --> 00:28:20,256
-‫And they a y-axis here
-‫will be the time to solve.
+‫اور y-axis پر ہے کہ اس کو 
+‫solve کرنے میں کتنا time لگا.
 
 637
 00:28:20,256 --> 00:28:21,630
-‫So maybe this is number of pages.
+‫تو یہ شاید ہوسکتا ہے کہ total کتنے pages ہیں.
+‫(یعنی x-axis: یعنی problem کا size)
 
 638
 00:28:21,630 --> 00:28:24,400
-‫Maybe this is seconds or
-‫page turns-- whatever.
+‫اور یہ ہو سکتے ہیں کہ کتنے seconds لگے
+‫یا کتنے pages پلٹنے پڑے
+‫(یعنی y-axis)
 
 639
 00:28:24,400 --> 00:28:27,290
-‫However you want to count is
-‫what this picture will represent.
+‫اگرچہ، ہمیں یہ سمجھنا ہے کہ 
+‫یہ graph ہمیں کیا بتا رہا ہے.
 
 640
 00:28:27,290 --> 00:28:30,630
-‫And that first algorithm, I'm going
-‫to describe as just a straight line.
+‫اور اگر سب سے پہلے والی algorithm کو لیں،
+‫تو اسکا میں کہونگا کہ وہ ایک سیدھی لکیر ہوگا.
 
 641
 00:28:30,630 --> 00:28:33,120
-‫If there's n pages in
-‫the phone book, then it
+‫اگر book میں pages کی تعداد n ہے تو
 
 642
 00:28:33,120 --> 00:28:36,010
-‫might take me as many
-‫as n steps to find Mike.
+‫Mike کو ڈھونڈے کیلئے بھی ہم کو n
+‫steps لینے پڑیں.
 
 643
 00:28:36,010 --> 00:28:38,930
-‫If Verizon or the phone company
-‫adds one more page next year,
+‫اگر کل کو Verizon یا کوئی اور phone
+‫company ایک page اور add کردے book میں
 
 644
 00:28:38,930 --> 00:28:42,170
-‫it might take me one more step--
-‫one more unit of time to find Mike.
+‫تو  ہمیں بھی ایک اور step لینا پڑیگا --
+‫ایک اور step لگےگا Mike کو ڈھونڈے میں.
 
 645
 00:28:42,170 --> 00:28:44,230
-‫So there's just this one to one ratio.
+‫تو one-to-one کا ratio ہے 
+‫(یعنی جتنے pages ہونگے اتنے ہی شاید پلٹنے پڑینگے)
 
 646
 00:28:44,230 --> 00:28:45,970
-‫It's a straight line slope.
+‫یہ ایک سیدھی لکیر والا slope ہے.
 
 647
 00:28:45,970 --> 00:28:49,110
-‫>> Meanwhile, that second
-‫algorithm-- if I'm
+‫>> جب کہ وہ جو دوسرا algorithm ہے
+‫-- یعنی اگر میں
 
 648
 00:28:49,110 --> 00:28:51,570
-‫going two at a time-- two,
-‫four, six, eight, or double--
+‫ایک ساتھ دو دو کر رہا ہوں --
+‫2، 4، 6، 8، یعنی double --
 
 649
 00:28:51,570 --> 00:28:54,550
-‫going through the pages twice
-‫at a time, two at a time,
+‫ایک وقت میں دو دو pages کو
+‫پلٹ رہا ہوں، تو
 
 650
 00:28:54,550 --> 00:28:55,710
-‫it's still straight line.
+‫اب بھی یہ سیدھی لکیر ہی ہوگی.
 
 651
 00:28:55,710 --> 00:28:58,720
-‫There's now a one to two
-‫ratio, but just a little lower.
+‫لیکن اب یہ one-to-two کا ratio ہے،
+‫(یعنی جتنے pages ہیں، اس کے آدھے پیجز پلٹنے پڑے)
 
 652
 00:28:58,720 --> 00:29:02,240
-‫So if there's this many pages
-‫on the chart here in yellow,
+‫جیسا کہ chart پر yellow میں دکھایا ہے،
+‫اگر اتنے pages ہونگے تو،
 
 653
 00:29:02,240 --> 00:29:04,800
-‫that might take me this
-‫many steps or seconds,
+‫مجھے پھر اتنے steps یا seconds
+‫لگ جائیں گے.
 
 654
 00:29:04,800 --> 00:29:07,980
-‫otherwise it's going to take me
-‫twice as many on the red line.
+‫ورنہ پھر مجھے اس سے double
+‫steps لگیں گے، اس red line کے مطابق.
 
 655
 00:29:07,980 --> 00:29:10,190
@@ -3019,39 +3020,38 @@ color میں highlight کیا ہے.
 
 656
 00:29:10,190 --> 00:29:12,290
-‫This is what we generally
-‫call a logorithm-- log
+‫اسے ہم عام طور پر (algorithm نہیں بلکہ) Logarithm
+‫کہتے ہیں -- n کا log
 
 657
 00:29:12,290 --> 00:29:13,840
-‫of n, where n is the number of pages.
+‫جہاں n کا مطلب pages کی total تعداد ہے.
 
 658
 00:29:13,840 --> 00:29:16,450
-‫But it's the shape that matters
-‫today, because we don't have
+‫لیکن سب سے زیادہ اہمیت اس graph
+‫کے shape کی ہے کیوں کہ فلحال
 
 659
 00:29:16,450 --> 00:29:17,950
-‫to even think about plotting points.
+‫ہمیں ایک ایک point کی فکر کرنے کی ضرورت نہیں.
 
 660
 00:29:17,950 --> 00:29:19,830
-‫>> Think about an extreme scenario.
+‫>> فرض کریں کہ ایک شدید صورتِ حال پیش آتی ہے.
 
 661
 00:29:19,830 --> 00:29:23,070
-‫Suppose Verizon tomorrow doubles the
-‫number of pages in that phone book,
+‫فرض کرلیں کہ کل کو Verizon اپنی phone
+‫book کے pages کی تعداد کو double کردیتی ہے،
 
 662
 00:29:23,070 --> 00:29:24,900
-‫from 1,000 to 2,000.
+‫یعنی 1000 سے 2000 صفحے.
 
 663
 00:29:24,900 --> 00:29:28,440
-‫In the first algorithm, I
-‫might waste an extra 1,000
+‫تو پہلے والے algorithm میں شاید مجھے
 
 664
 00:29:28,440 --> 00:29:32,080
